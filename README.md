@@ -1,14 +1,11 @@
 ### Hi there 👋
-I am Prayag Patel from Madhya Pradesh, India.
+I am Prayag Patel from Badhavgarh, India.
 
-### 😄 Pronouns
-He/Him
 
-### 🌱 I’m currently learning ...
-- Mern Stack, Aspiring Full Stack Developer
-
-### 🌱 What do I do?
-- ✔️ Though I have completed my 12th, I aspire to work as a programmer.
+### 🌱About:
+- ✔️Being a non-techie, when I am starting my steps toward learning web development, I feel afraid because it is entirely new for me as I am a tourism graduate shifting my career entirely in a different direction. Still, at the same time, I am also interested to learn about how technology works and have always been fascinated with how using coding, you can create great products and solve various problems.
+So I decided it's never too late to start something you like.
+For this reason, I started my journey toward learning computer languages, and I am working on it.
 
 - ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
 
