@@ -12,7 +12,7 @@ For this reason, I started my journey toward learning computer languages, and I 
 ### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
 
-### 📫 How can you reach me?
+## 📫 How can you reach me?
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prayagp8/).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prayagp8)
