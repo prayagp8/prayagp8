@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prayag  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40">
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prayag  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50">
  I am from Badhavgarh, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
 
 
@@ -7,7 +7,7 @@
 So I decided it's never too late to start something you like.
 For this reason, I started my journey toward learning computer languages, and I am working on it.
 
-- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer. 
+- ✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29">. 
 
 ##### ⚡ One line that describes me best? 
 A hard working boy who enjoys good humour & coding.😉😉
