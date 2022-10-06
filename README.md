@@ -9,7 +9,7 @@
 
 #### ⚡ One line that describes me best? <br>
 
-A hard working boy who enjoys good humour & coding.😉😉
+A hard working boy who enjoys good humour & coding...😉😉
 
 
 ## 🌐 Socials:
