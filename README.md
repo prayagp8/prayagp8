@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **developing full stack web development applications**
 
-- 🤝Seeking to leverage my skills in a challenging work environment.
+- 🤝Seeking to leverage my skills in a challenging work environment..
 
 - 👨‍💻 Find my portfolio at <a href="https://prayagp8.github.io" target="blank">My Portfolio</a>
 
