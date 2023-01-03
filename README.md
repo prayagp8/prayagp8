@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagp8" alt="prayagp8" /> </p>
+
 
 ###  💫 About Me:
 
