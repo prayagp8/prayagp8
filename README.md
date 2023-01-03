@@ -1,8 +1,11 @@
-###  💫 About Me:
+
 ##  Hey, I'm Prayag  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br> I am from Bandhavgarh, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.<br><br><br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif">
 
-### About:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagp8" alt="prayagp8" /> </p>
+
+###  💫 About Me:
 
 <br>-  ✔️Being a non-techie, when I am starting my steps toward learning web development, I feel afraid because it is entirely new for me as I am a tourism graduate shifting my career entirely in a different direction.Still, at the same time, I am also interested to learn about how technology works and had always been fascinated with how using coding, you can create great products and solve various problems.<br>So I decided it's never too late to start something you like.<br>For this reason, I started my journey toward learning computer languages, and I am working on it...<br>
 
@@ -33,6 +36,7 @@ A hard working boy who enjoys good humour & coding...😉😉
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prayagp8) 
 
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -47,7 +51,7 @@ A hard working boy who enjoys good humour & coding...😉😉
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postmam-05122A?style=flat&logo=Postman&logoColor=FFA515)&nbsp;
-
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql&logoColor=FFA515)&nbsp;
 
 
 # 📊 GitHub Stats:
