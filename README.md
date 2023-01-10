@@ -1,5 +1,5 @@
 
-##  Hey, I'm Prayag  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br> I am from Bandhavgarh, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.<br><br><br>
+##  Hey, I'm Prayag  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"><br> I am from Bandhavgarh, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/fdvOlldr5RYAAAAC/private.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
