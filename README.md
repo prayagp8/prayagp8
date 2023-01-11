@@ -37,7 +37,7 @@ A hard working boy who enjoys good humour & coding...😉😉
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
