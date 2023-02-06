@@ -6,7 +6,6 @@
 
 
 ###  💫 About Me:
-
 <br>-  ✔️Being a non-techie, when I am starting my steps toward learning web development, I feel afraid because it is entirely new for me as I am a tourism graduate shifting my career entirely in a different direction.Still, at the same time, I am also interested to learn about how technology works and had always been fascinated with how using coding, you can create great products and solve various problems.<br>So I decided it's never too late to start something you like.<br>For this reason, I started my journey toward learning computer languages, and I am working on it...<br>
 
 
